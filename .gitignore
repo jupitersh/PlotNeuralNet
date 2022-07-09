@@ -83,3 +83,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# my models
+/models/*.txt
+/models/*.tex
+/models/*.pdf
